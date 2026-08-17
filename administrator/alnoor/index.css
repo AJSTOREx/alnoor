@@ -1,9 +1,0 @@
-/* تغير شكل التحديد */
-::selection {
-    background: #111;
-    color: #fff;
-}
-body.dark ::selection {
-    background: #f0f0f0;
-    color: #111;
-}
